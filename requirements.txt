@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+accelerate
+peft
+bitsandbytes
+einops
+scipy
+huggingface_hub
